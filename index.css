@@ -1,7 +1,122 @@
 #container{
-    margin-left: 30%;
+    margin-left: 18%;
+    /* margin-top: -3%; */
+}
+#content{
+    margin-top: -8%;
+}
+#title{
+    margin-left: 25%;
+    font-size: 50px;
+    font-weight: bold;
 }
 .par{
-    width: 70%;
     font-size: 20px;
+    width: 80%;
+    margin-top: -1%;
+    line-height: 30px;
+
+}
+#laugh-all{
+    margin-top: -18%;
+
+}
+#laugh{
+    margin-right: 20%;
+    display: flex;
+    gap: 10%;
+}
+.laugh-heading{
+    font-size: 32px;
+    margin-top: 13%;
+   
+}
+#laugh-par{
+    font-size: 20px;
+    width: 70%;
+    margin-top: 4.5%;
+    line-height: 30px;
+
+}
+#laughter{
+    margin-top: -1%;
+    height: 350px;
+    border-top-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+
+}
+.humor-heading{
+    font-size: 32px;
+    margin-top: 20%;
+   
+}
+#humour-impact{
+    display: flex;
+    gap: 10%;
+    margin-right: 20%;
+    margin-top: 3%;
+    line-height: 28px;
+    font-size: 20px;
+
+}
+#humour-img{
+    margin-top: -5%;
+    height: 300px;
+    width: 400px;
+    border-top-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+
+}
+#humor-par{
+    font-size: 20px;
+    width: 80%;
+    margin-top: -1%;
+    line-height: 30px;
+
+}
+.impact-heading{
+    font-size: 32px;
+    margin-top: 4%;
+   
+
+}
+.impact-par{
+    margin-top: -2.5%;
+    
+
+}
+.textual-heading{
+    font-size: 32px;
+    margin-top: 5%;
+   
+}
+.reflection-heading{
+    font-size: 32px;
+    margin-top: 5%;
+   
+}
+#reflect{
+    margin-right: 20%;
+    display: flex;
+    gap: 10%;
+}
+#reflection{
+    margin-top: 2%;
+    height: 350px;
+    width: 450px;
+    border-top-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+
+}
+.reflection-par{
+    font-size: 20px;
+    width: 70%;
+    margin-top: 5%;
+    line-height: 30px;
+
+}
+.conclusion-heading{
+    font-size: 32px;
+    margin-top: 4%;
+   
 }
